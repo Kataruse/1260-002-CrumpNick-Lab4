@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qmTIgUmJUaUR8mDsFyS+Cl3gJ32I2r4tUsoWwxdAIlD3BUw6zXSdF1VYy/fatEEMZq5SrSww7eu30/8La4T/GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicka\\Documents\\College Documents\\Classes\\CSCI 1260 - Intro to Comp. Sci. 2\\Projects\\1260-002-CrumpNick-Lab4\\Lab4-SearchingAndSorting\\Lab4-SearchingAndSorting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\nicka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

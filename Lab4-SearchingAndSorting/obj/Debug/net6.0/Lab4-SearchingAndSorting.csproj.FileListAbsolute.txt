@@ -1,0 +1,15 @@
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\obj\Debug\net6.0\Lab4-SearchingAndSorting.csproj.AssemblyReference.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\obj\Debug\net6.0\Lab4-SearchingAndSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\obj\Debug\net6.0\Lab4-SearchingAndSorting.AssemblyInfoInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\obj\Debug\net6.0\Lab4-SearchingAndSorting.AssemblyInfo.cs
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\obj\Debug\net6.0\Lab4-SearchingAndSorting.csproj.CoreCompileInputs.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\bin\Debug\net6.0\Lab4-SearchingAndSorting.exe
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\bin\Debug\net6.0\Lab4-SearchingAndSorting.deps.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\bin\Debug\net6.0\Lab4-SearchingAndSorting.runtimeconfig.json
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\bin\Debug\net6.0\Lab4-SearchingAndSorting.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\bin\Debug\net6.0\Lab4-SearchingAndSorting.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\obj\Debug\net6.0\Lab4-SearchingAndSorting.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\obj\Debug\net6.0\refint\Lab4-SearchingAndSorting.dll
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\obj\Debug\net6.0\Lab4-SearchingAndSorting.pdb
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\obj\Debug\net6.0\Lab4-SearchingAndSorting.genruntimeconfig.cache
+C:\Users\nicka\Documents\College Documents\Classes\CSCI 1260 - Intro to Comp. Sci. 2\Projects\1260-002-CrumpNick-Lab4\Lab4-SearchingAndSorting\obj\Debug\net6.0\ref\Lab4-SearchingAndSorting.dll
